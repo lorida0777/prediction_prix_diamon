@@ -40,6 +40,7 @@
 - **Variables qualitatives :**
 
   - cut : 'Ideal', 'Premium', 'Good', 'Very Good' , 'Fair'
+    - Ideal : Excellente coupe, maximise la brillance.
   - color : 'E', 'I', 'J', 'H' , 'F', 'G', 'D'
   - clarity : 'SI2' ,'SI1' ,'VS1' ,'VS2' ,'VVS2' ,'VVS1' ,'I1' ,'IF'
 
