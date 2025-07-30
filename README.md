@@ -55,6 +55,7 @@
     - VVS1, VVS2 : Très très petites inclusions (difficilement visibles même à la loupe)
     - VS1, VS2 : Très petites inclusions (légèrement visibles à la loupe)
     - SI1, SI2 : Inclusions visibles à la loupe, parfois à l’œil nu
+    - I1 : Inclusions visibles à l’œil nu (qualité inférieure)
 
 ---
 
