@@ -48,6 +48,7 @@
   - color : 'E', 'I', 'J', 'H' , 'F', 'G', 'D'
     - D : Incolore (qualité maximale)
     - E, F : Presque incolore
+    - G, H : Légèrement teinté (presque invisible à l’œil nu)
   - clarity : 'SI2' ,'SI1' ,'VS1' ,'VS2' ,'VVS2' ,'VVS1' ,'I1' ,'IF'
 
 ---
