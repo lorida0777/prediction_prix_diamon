@@ -46,6 +46,7 @@
     - Good : Bon équilibre entre qualité et prix, éclat correct
     - Fair : Moins de brillance, coupe plus profonde ou peu équilibrée
   - color : 'E', 'I', 'J', 'H' , 'F', 'G', 'D'
+    - D : Incolore (qualité maximale)
   - clarity : 'SI2' ,'SI1' ,'VS1' ,'VS2' ,'VVS2' ,'VVS1' ,'I1' ,'IF'
 
 ---
