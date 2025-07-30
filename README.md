@@ -44,6 +44,7 @@
     - Premium : Presque aussi brillante qu’Ideal
     - Very Good : Très bon éclat, mais légèrement moins bien taillé
     - Good : Bon équilibre entre qualité et prix, éclat correct
+    - Fair : Moins de brillance, coupe plus profonde ou peu équilibrée
   - color : 'E', 'I', 'J', 'H' , 'F', 'G', 'D'
   - clarity : 'SI2' ,'SI1' ,'VS1' ,'VS2' ,'VVS2' ,'VVS1' ,'I1' ,'IF'
 
