@@ -41,7 +41,8 @@
 
   - cut : 'Ideal', 'Premium', 'Good', 'Very Good' , 'Fair'
     - Ideal : Excellente coupe, maximise la brillance
-    - Premium : Presque aussi brillante qu’Ideal.
+    - Premium : Presque aussi brillante qu’Ideal
+    - Very Good : Très bon éclat, mais légèrement moins bien taillé
   - color : 'E', 'I', 'J', 'H' , 'F', 'G', 'D'
   - clarity : 'SI2' ,'SI1' ,'VS1' ,'VS2' ,'VVS2' ,'VVS1' ,'I1' ,'IF'
 
