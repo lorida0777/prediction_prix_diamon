@@ -36,6 +36,7 @@
 #### 📌 Compréhension des variables
 
 - ## **Variables continues :**
+  - Ne suit pas une distribution normale
 - **Variables qualitatives :**
   - Principalement \*\* \*\*
   - Exemple notable : **Rhinovirus** semble très fréquent
