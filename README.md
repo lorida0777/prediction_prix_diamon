@@ -53,6 +53,7 @@
   - clarity : 'SI2' ,'SI1' ,'VS1' ,'VS2' ,'VVS2' ,'VVS1' ,'I1' ,'IF'
     - FL/IF (Flawless/Internally Flawless) : Aucune inclusion visible
     - VVS1, VVS2 : Très très petites inclusions (difficilement visibles même à la loupe)
+    - VS1, VS2 : Très petites inclusions (légèrement visibles à la loupe)
 
 ---
 
