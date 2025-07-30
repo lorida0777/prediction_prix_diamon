@@ -12,7 +12,7 @@ Développer une première stratégie de modélisation
 ### Analyse de Forme :
 
 - variable target :
-- lignes et colonnes :
+- lignes et colonnes : (53940, 10)
 - types de variables : - quanlitatives : - quantitatives :
 - Analyse des valeurs manquantes : b
 
