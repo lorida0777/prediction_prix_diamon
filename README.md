@@ -36,7 +36,8 @@
 #### 📌 Compréhension des variables
 
 - ## **Variables continues :**
-  - Ne suit pas une distribution normale
+  - La majorité ne suit pas une distribution normale
+  - Depth suit une distribution normale
 - **Variables qualitatives :**
 
   - cut : 'Ideal', 'Premium', 'Good', 'Very Good' , 'Fair'
