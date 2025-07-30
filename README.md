@@ -17,10 +17,10 @@
 - **Dimensions du jeu de données :** 53940 lignes × 10 colonnes
 - **Types de variables :**
 
-  - **Qualitatives :**
-  - **Quantitatives :**
-    - `object` :
-    - `int64` :
+  - **Qualitatives :** 6
+  - **Quantitatives :** 4
+    - `object` : 3
+    - `int64` : 1
 
 - ## **Analyse des valeurs manquantes :**
   -
