@@ -31,7 +31,7 @@
 
 #### 🎯 Visualisation de la variable cible
 
-- Prix du diamon
+- Prix du diamon (variable)
 
 #### 📌 Compréhension des variables
 
