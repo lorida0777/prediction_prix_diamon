@@ -23,7 +23,7 @@
     - `int64` : 1
 
 - ## **Analyse des valeurs manquantes :**
-  -
+  - Pas de valeur manquante
 
 ---
 
